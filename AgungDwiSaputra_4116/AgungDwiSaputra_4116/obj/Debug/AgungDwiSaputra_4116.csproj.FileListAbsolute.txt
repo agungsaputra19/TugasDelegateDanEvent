@@ -1,0 +1,12 @@
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\bin\Debug\AgungDwiSaputra_4116.exe.config
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\bin\Debug\AgungDwiSaputra_4116.exe
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\bin\Debug\AgungDwiSaputra_4116.pdb
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.csproj.AssemblyReference.cache
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.Form1.resources
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.Form2.resources
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.Properties.Resources.resources
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.csproj.GenerateResource.cache
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.csproj.CoreCompileInputs.cache
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.exe
+D:\AMIKOM\AgungDwiSaputra_4116\AgungDwiSaputra_4116\obj\Debug\AgungDwiSaputra_4116.pdb
